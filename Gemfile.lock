@@ -1,12 +1,14 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    data_types (1.1.0)
     minitest (5.8.4)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
+  data_types (>= 1.1.0)
   minitest (>= 5.8.4)
 
 BUNDLED WITH
