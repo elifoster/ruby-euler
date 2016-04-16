@@ -3,17 +3,17 @@ GEM
   specs:
     data_types (1.1.0)
     minitest (5.8.4)
-    rake (10.5.0)
+    rake (11.1.0)
     require_all (1.3.3)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  data_types (>= 1.1.0)
-  minitest (>= 5.8.4)
-  rake (>= 10.5.0)
-  require_all (>= 1.3.3)
+  data_types (~> 1.1)
+  minitest (~> 5.8)
+  rake (~> 11.1)
+  require_all (~> 1.3)
 
 BUNDLED WITH
    1.11.2

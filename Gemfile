@@ -1,9 +1,9 @@
 source 'https://rubygems.org'
 
-gem('minitest', '>= 5.8.4')
-gem('data_types', '>= 1.1.0')
+gem('minitest', '~> 5.8')
+gem('data_types', '~> 1.1')
 
 group :test do
-  gem('require_all', '>= 1.3.3')
-  gem('rake', '>= 10.5.0')
+  gem('require_all', '~> 1.3')
+  gem('rake', '~> 11.1')
 end
